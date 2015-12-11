@@ -1,0 +1,14 @@
+layout_spectrum: 0.9693877
+color:
+  saturation: 0.6192266
+  brandStrength: 0.5794844
+  lightness: 0.2153598
+  brandColors:
+    - '#1F1F30'
+    - '#5C5C66'
+    - '#B59A9A'
+    - '#91B4E9'
+    - '#F3914C'
+  rhythmicContrast: 0.3968851
+typography_spectrum: 0.8684211
+name: patmorais
