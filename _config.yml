@@ -1,14 +1,28 @@
+name: patmorais
+favicon: null
 layout_spectrum: 0.9693877
+typography_spectrum: 0.8684211
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6192266
-  brandStrength: 0.5794844
-  lightness: 0.2153598
   brandColors:
     - '#1F1F30'
     - '#5C5C66'
     - '#B59A9A'
     - '#91B4E9'
     - '#F3914C'
-  rhythmicContrast: 0.3968851
-typography_spectrum: 0.8684211
-name: patmorais
+  brandStrength: 0.5794844
+  lightness: 0.5
+  saturation: 0.5625
+  rhythmicContrast: 0.75
+purpose: []
